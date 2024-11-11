@@ -1,13 +1,13 @@
-export const startMessage = `👋 Hello there, UserName !
+export const startMessage = `👋ازيك يا , UserName !
 
-Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
+انا هنا بعمل تفاعل تلقائي ومتسألنيش ازاي عشان انا معرفش ازاي
 
-💁‍♂️ Here's how I spice up your chats:
+💁‍♂️ انا بشتغل في اي حتي:
 
-*✨ DM Magic*: Message me and receive a surprise emoji in return. Expect the unexpected and enjoy the fun!
-*🏖 Group & Channel*: Add me to your groups or channels, and I'll keep the vibe positive by reacting to messages with engaging emojis.
+*✨ انا بشتغل في الخاص يعني لو انت عايز تبعتلي رسالة واعملك عليها قلب وشغل المحن ده معنديش مشكلة
+*🏖 بشتغل علي القنوات والجروبات واي حاجة يعني اسد معاك يابرنس
 
-✍️ To view the emojis I can use, simply type /reactions. To create your own auto reaction bot, head over to: [Branded-Auto-Reaction-Bot on GitHub](https://github.com/WCGKING/Branded-Auto-Reaction-Bot).
+✍️ اكتب الأمر ده لو عايز تعرف التفاعل المتاح في البوت /reactions. لو عايز تعمل بوت زيي كده كلمني, اضغط هنا: [عمك عامر](https://t.me/A_3AMIRTRADER).
 
 Let's elevate our conversations with more energy and color! 🚀`
 export const htmlContent = `
